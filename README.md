@@ -5,6 +5,8 @@
 # 🛡️ Discord Hidden Server (Vencord Plugin)
 
 <p align="center">
+  <img src="./logo.png" width="96" height="96" style="border-radius: 50%; object-fit: cover;" alt="whiteexcellent logo" />
+  <br />
   <b>Developed with ❤️ by <a href="https://github.com/whiteexcellent">whiteexcellent</a></b>
 </p>
 
@@ -48,7 +50,10 @@ A powerful, privacy-focused custom plugin for **Vencord** that allows you to hid
 
 ## 👨‍💻 Author
 
-**whiteexcellent** — [GitHub Profile](https://github.com/whiteexcellent)
+<p align="left">
+  <img src="./logo.png" width="48" height="48" style="border-radius: 50%; vertical-align: middle; margin-right: 10px;" alt="whiteexcellent" />
+  <a href="https://github.com/whiteexcellent"><b>whiteexcellent</b></a>
+</p>
 
 ---
 
